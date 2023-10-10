@@ -9,8 +9,11 @@ In today’s social media-dominated landscape, digital platforms wield substanti
 ## Annotation terminology
 
 ### Relevance
-Non-Relevant: 0
-Relevant: 1
+
+| -------- | -------- | 
+| Non-Relevant | 0 | 
+| Relevant | 1 | 
+
 
 ### Sentiment
 Neutral: 0
