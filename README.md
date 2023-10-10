@@ -10,32 +10,46 @@ In today’s social media-dominated landscape, digital platforms wield substanti
 
 ### Relevance
 |  Class | Terminology | 
-| :--------: | -------- | 
+| :--------: | :--------: | 
 | Non-Relevant | 0 | 
 | Relevant | 1 | 
 
 
 ### Sentiment
-Neutral: 0
-Positive: 1
-Negative: 2
+|  Class | Terminology | 
+| :--------: | :--------: | 
+| Neutral | 0 | 
+| Positive | 1 | 
+| Negative | 2 | 
+
 
 ### Satire
-No-Satire: 0
-Satire: 1
+|  Class | Terminology | 
+| :--------: | :--------: | 
+| No-Satire | 0 | 
+| Satire | 1 | 
+
 
 ### Hate
-No-Hate: 0
-Hate: 1
+|  Class | Terminology | 
+| :--------: | :--------: | 
+| No-Hate | 0 | 
+| Hate | 1 | 
 
 ### Direction of Hate Speech
-Undirected: 0
-Directed: 1
+
+|  Class | Terminology | 
+| :--------: | :--------: | 
+| Undirected | 0 | 
+| Directed | 1 | 
 
 ### Targets of Hate Speech
-Individual: 1 
-Community: 2 
-Organization: 3
+|  Class | Terminology | 
+| :--------: | :--------: | 
+| Individual | 1 | 
+| Community | 2 | 
+| Organization | 3 | 
+
 
 
 
