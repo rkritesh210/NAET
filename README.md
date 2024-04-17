@@ -50,7 +50,19 @@ In today’s social media-dominated landscape, digital platforms wield substanti
 | Community | 2 | 
 | Organization | 3 | 
 
+### Citation
 
+If you decide to use this dataset please cite the following paper.
+
+[Multi-Aspect Annotation and Analysis of Nepali Tweets on Anti-Establishment Election Discourse](https://ieeexplore.ieee.org/document/10355965)
+
+@article{rauniyar2023multi,
+  title={Multi-Aspect Annotation and Analysis of Nepali Tweets on Anti-Establishment Election Discourse},
+  author={Rauniyar, Kritesh and Poudel, Sweta and Shiwakoti, Shuvam and Thapa, Surendrabikram and Rashid, Junaid and Kim, Jungeun and Imran, Muhammad and Naseem, Usman},
+  journal={IEEE Access},
+  year={2023},
+  publisher={IEEE}
+}
 
 
 
